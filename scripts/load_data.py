@@ -1,4 +1,6 @@
 # scripts/load_data.py
+# pip install sqlalchemy psycopg2-binary pandas
+
 import os
 from sqlalchemy import create_engine, text
 import pandas as pd

@@ -1,4 +1,5 @@
 # scripts/generate_mock_data.py
+# pip install faker pandas numpy
 
 import csv
 import random
